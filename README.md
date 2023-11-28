@@ -11,4 +11,4 @@
 - 🍃 MongoDB
 
 ## Моя статистика
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ilya-Ivashchenk0&show_icons=true&count_private=true&hide=stars&theme=dark"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-Ivashchenk0&layout=compact&theme=dark">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ilya-Ivashchenk0&show_icons=true&count_private=true&hide=stars&theme=dark"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-Ivashchenk0&layout=compact&theme=dark">
