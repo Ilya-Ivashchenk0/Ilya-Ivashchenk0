@@ -1,6 +1,6 @@
 # Привет, я Илья! 👋
 
-<img src="https://s5.gifyu.com/images/SRfVt.gif" alt="video 2023 08 17 02 28 27 (2)" border="16" />
+<img src="https://s5.gifyu.com/images/SRfVt.gif" alt="video 2023 08 17 02 28 27 (2)" border="0" border-radius="16" />
 
 ## Обо мне
 - Я увлечен изучением различных технологий в веб-разработке.
