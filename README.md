@@ -11,6 +11,5 @@
 - 🍃 MongoDB
 
 ## Моя статистика
-![Моя активность в GitHub](https://github-readme-stats.vercel.app/api?username=Ilya-Ivashchenk0&show_icons=true&count_private=true&hide=stars&theme=radical)
-
-![Топ языков программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-Ivashchenk0&layout=compact&theme=radical)
+![Моя активность в GitHub](https://github-readme-stats.vercel.app/api?username=Ilya-Ivashchenk0&show_icons=true&count_private=true&hide=stars&theme=dark)
+![Топ языков программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-Ivashchenk0&layout=compact&theme=dark)
