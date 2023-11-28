@@ -1,16 +1,17 @@
-### Hi there 👋
+# Привет, я Илья! 👋
 
-<!--
-**Ilya-Ivashchenk0/Ilya-Ivashchenk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+- Я увлечен изучением различных технологий в веб-разработке.
+- В данный момент фокусируюсь на изучении Next.js и React Native.
 
-Here are some ideas to get you started:
+## Мой стек
+- 🌐 HTML5, CSS3, JavaScript (ES6)
+- 🚀 Git, Node.js, Webpack
+- ⚛️ React.js
+- 🍃 MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Статистика
+![Моя активность в GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=stars&theme=radical)
+
+## Используемые языки программирования
+![Топ языков программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
