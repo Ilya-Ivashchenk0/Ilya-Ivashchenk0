@@ -7,9 +7,9 @@
 - В данный момент фокусируюсь на изучении TypeScript и Next.js.
 
 ## Мой стек
-- 🌐 HTML5, CSS3,, SCSS, JavaScript (ES6), TypeScript
+- 🌐 HTML5, CSS3, SCSS, JavaScript, TypeScript, ES6
 - 🚀 Git, Node.js, Webpack
-- ⚛️ React.js, Next.js
+- ⚛️ React, Next, Express
 - 🍃 MongoDB
 
 ## Моя статистика
